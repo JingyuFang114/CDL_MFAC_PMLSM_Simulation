@@ -51,7 +51,7 @@ Before generating any results, run the following `.m` file to save the relevant 
 save_data.m
 ```
 
-This file prepares the necessary variables for the simulation.
+This file saves data in workspace.
 
 ### 5. Generate Figures.
 
@@ -61,7 +61,7 @@ To generate the simulation result figures (e.g., performance curves, control inp
 calculate_index.m
 ```
 
-This script will generate the performance metrics and save the corresponding figures to the directory folder.
+This script will generate the performance metrics, you can save the corresponding figures for further comparison.
 
 ---
 
