@@ -9,7 +9,7 @@ The repository is created for the purpose of anonymous peer review.
 
 ## ⚙️ Requirements
 
-- MATLAB R2021a or later
+- MATLAB R2023a or later
 - No additional toolboxes are required beyond the standard MATLAB environment  
 
 ---
